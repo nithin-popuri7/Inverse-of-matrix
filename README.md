@@ -26,6 +26,7 @@ print (l2)
 valuel=np.array(l2)
 inverse = np.linalg.inv(valuel)
 print (inverse)
+```
 
 ## OUTPUT:
 ![github.logo](inverse.png)
